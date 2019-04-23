@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics 36 : Prime Numbers
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
