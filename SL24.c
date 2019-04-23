@@ -1,3 +1,7 @@
+/*
+*	Exercise Simulation 24 : Mod3
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
