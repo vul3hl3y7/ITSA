@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics 38 : Rational Number Addition
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
