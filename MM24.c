@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics 24 : Hashmat the brave warrior
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
