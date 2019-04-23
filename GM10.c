@@ -1,3 +1,7 @@
+/*
+*	Exercise Geometry 10 : Intersection with the axes
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
