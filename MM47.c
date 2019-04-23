@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics 47 : Counting Bus Fare
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
