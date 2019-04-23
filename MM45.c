@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics 45 : Triangle Classify
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
