@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics 35 : Factorization
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
