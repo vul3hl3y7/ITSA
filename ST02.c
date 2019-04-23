@@ -1,3 +1,7 @@
+/*
+*	Exercise Strings 02 : String encoding
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
