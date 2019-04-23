@@ -1,3 +1,7 @@
+/*
+*	Exercise Simulation 16 : Printing Triangles and Squares
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
