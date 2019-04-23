@@ -1,3 +1,7 @@
+/*
+*	Exercise Simulation 20 : How Many Days
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
