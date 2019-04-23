@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics II 54 : Spread The Ceramic Tiles
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
