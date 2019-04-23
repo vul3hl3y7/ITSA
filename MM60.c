@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics II 60 : Find The Median
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
