@@ -1,3 +1,7 @@
+/*
+*	Exercise Strings 31 : Counting the occurrences
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
