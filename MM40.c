@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics 40 : Base Conversion
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
