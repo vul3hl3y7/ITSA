@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics II 61 : CRC
+*/
+
 #include <stdio.h>
 
 int main()
