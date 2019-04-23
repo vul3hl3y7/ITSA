@@ -1,3 +1,7 @@
+/*
+*	Exercise Array 12 : Counting Numbers
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
