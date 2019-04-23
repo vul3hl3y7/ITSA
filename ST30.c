@@ -1,3 +1,7 @@
+/*
+*	Exercise Strings 30 : Broken numbers
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<ctype.h>
