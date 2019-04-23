@@ -1,3 +1,7 @@
+/*
+*	Exercise Datastructure 14 : Count ¡¥0¡¦ bits in a string
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
