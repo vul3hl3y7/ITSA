@@ -1,3 +1,7 @@
+/*
+*	Exercise CH06 : Body Adiposity Index(BAI)
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
