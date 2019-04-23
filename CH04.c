@@ -1,3 +1,7 @@
+/*
+*	Exercise Comprehensive 04 : Precision and Recall
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
