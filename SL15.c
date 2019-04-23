@@ -1,3 +1,7 @@
+/*
+*	Exercise Simulation 15 : Printing diamonds
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
