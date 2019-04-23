@@ -1,3 +1,7 @@
+/*
+*	Exercise Simulation 07 : English Words
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
