@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics 31 : Factorial Number
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
