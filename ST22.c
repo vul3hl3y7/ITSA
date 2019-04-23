@@ -1,3 +1,7 @@
+/*
+*	Exercise Strings 22 : Binary Conversion
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
