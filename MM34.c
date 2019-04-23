@@ -1,3 +1,7 @@
+/*
+*	Exercise Mathematics 34 : GCD of Min and Max
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
